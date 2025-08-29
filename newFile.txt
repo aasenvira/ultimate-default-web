@@ -1,0 +1,25 @@
+Texto de prueba
+
+Commit #2 during squash activity
+
+Commit #3 during squash activity
+
+Commit #4 during squash activity
+
+Commit #5
+
+Commit #6
+
+Commit #7
+
+Commit #8
+
+Commit #9
+
+Commit #10
+
+Commit #11
+
+Commit #12
+
+Commit #13
